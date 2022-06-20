@@ -22,4 +22,4 @@ Con estas dependencias trabajamos como si tuvieramos electron instalado, solo qu
 
 Antes const smartcard = require('smartcard')
 
-Ahora import smartcard from 'snartcard'# ConexionNFC
+Ahora import smartcard from 'sMartcard' 
