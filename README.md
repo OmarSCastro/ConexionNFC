@@ -16,7 +16,7 @@ La idea es poder transformar este proyecto en electron-compile para poder ejecut
 
 Para esto se debe de desinstalar electron y hacer las siguientes instalaciones
 
-npm install electron-orebuilt-compile -D npm install electron-compile -S
+npm install electron-prebuilt-compile -D npm install electron-compile -S
 
 Con estas dependencias trabajamos como si tuvieramos electron instalado, solo que funcionna como un API sin la necesidad de tener electron instalado, ya podemos codificar en ECMA 6 como cambiar la siguiente sintaxis:
 
