@@ -8,7 +8,7 @@ npm install smartcard -S npm install electron -D npm install electron-rebuild -D
 
 Ejecutar el comando ./node_modules/.bin/electron-rebuild
 
-Crear o verificar que este el script "start": "electron"
+Crear o verificar que este el script "start": "electron ."
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 
